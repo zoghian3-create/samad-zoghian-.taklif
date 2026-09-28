@@ -1,0 +1,8 @@
+name = input ("user name ra vard konid")
+password = int (input("pasvord vared konid"))
+
+if name == "equal" or "admin" and password == 1234 :
+    print ("login ba movafaghiat vared shod")
+
+else :
+    print ("password or user name galat hast")
