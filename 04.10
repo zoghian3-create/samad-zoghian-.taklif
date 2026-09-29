@@ -1,0 +1,5 @@
+old_list = [200000,1000000]
+new_list = []
+for i in old_list:
+    new_list.append(int(i * 1.10))
+print ( new_list)
